@@ -1,0 +1,26 @@
+{
+  "name": "svg_logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apohl53/SVG_LogoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apohl53/SVG_LogoMaker/issues"
+  },
+  "homepage": "https://github.com/apohl53/SVG_LogoMaker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
