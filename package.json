@@ -1,5 +1,6 @@
 {
   "name": "svg_logomaker",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,5 +23,8 @@
   "homepage": "https://github.com/apohl53/SVG_LogoMaker#readme",
   "dependencies": {
     "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
